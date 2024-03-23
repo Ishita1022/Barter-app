@@ -27,11 +27,6 @@ Twilio Programmable Chat
 Deploy on MongoDb
 
 
-## Team members: 
-1. Ritvik Paramkusham
-2. Vraj Reshamdalal
-3. Ishita Janwale
-4. Preksha Yadav
 
 ## Milestones:
 - M1 - Story1, Story 2
